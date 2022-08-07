@@ -1,0 +1,9 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+header {
+    background-image: url(img/bike.webp);
+    height: 500px;
+}
