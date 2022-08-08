@@ -6,4 +6,32 @@ html {
 header {
     background-image: url(img/bike.webp);
     height: 500px;
+    
+}
+.div-header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+#awa {
+    float: left;
+}
+#granfondo {
+    float: right;
+}
+img {
+    max-width: 100%;
+    height: auto;
+  }
+.cards-container {
+    display: flex;
+}
+.contacts-container {
+    display: flex;
+}
+.how-it-works_steps {
+    display: flex;
+}
+.nav-container {
+    display: flex;
 }
